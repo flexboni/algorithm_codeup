@@ -1,4 +1,4 @@
-# [CodeUp 기초 100제](https://codeup.kr/problem.php?id=1001)
+# [CodeUp 기초 100제](https://codeup.kr/problem.php)
 
 ## 1001 : [기초-출력] 출력하기01(설명)
 

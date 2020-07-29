@@ -1,6 +1,6 @@
-# [CodeUp 기초 100제](https://codeup.kr/problem.php?id=1003)
+# [CodeUp 기초 100제](https://codeup.kr/problem.php)
 
-## 1003 : [기초-출력] 출력하기03(설명)
+## 1004 : [기초-출력] 출력하기04(설명)
 
 시간 제한: 1 Sec  메모리 제한: 128 MB
 
