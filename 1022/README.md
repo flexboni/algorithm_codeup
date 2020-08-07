@@ -52,3 +52,5 @@
 ---
 
 [(정답 보기)](https://codeup.kr/showsource.php?id=425027)
+
+[(정답 보기 - 2)](https://codeup.kr/showsource.php?id=425028)
