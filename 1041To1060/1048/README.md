@@ -1,6 +1,6 @@
 # [CodeUp 기초 100제](https://codeup.kr/problem.php)
 
-## [11048 : [기초-비트시프트연산] 한 번에 2의 거듭제곱 배로 출력하기(설명)](https://codeup.kr/problem.php?id=1048)
+## [1048 : [기초-비트시프트연산] 한 번에 2의 거듭제곱 배로 출력하기(설명)](https://codeup.kr/problem.php?id=1048)
 
 시간 제한: 1 Sec 메모리 제한: 128 MB
 
