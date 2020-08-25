@@ -65,7 +65,7 @@
 
 </br>
 
-[[내 풀이 보기]](https://github.com/flexboni/code_up/blob/master/1070/myCode.cpp)
+[[내 풀이 보기]](https://github.com/flexboni/code_up/blob/master/1071/myCode.cpp)
 
 ---
 
