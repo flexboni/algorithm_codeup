@@ -51,8 +51,6 @@
 
 [[내 풀이 보기]](https://github.com/flexboni/code_up/blob/master/1074/myCode.cpp)
 
-'정답'이 이상한 것 같고, '내 풀이'는 진도를 넘어가는 것 같다.
-
 ---
 
 [[정답 보기]](https://codeup.kr/showsource.php?id=425098)
