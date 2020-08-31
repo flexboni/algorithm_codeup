@@ -2,7 +2,7 @@
 
 int main()
 {
-    int n, array[1000];
+    int n, array[1000] = {0};
 
     scanf("%d", &n);
 
